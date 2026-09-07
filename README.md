@@ -237,3 +237,6 @@ This repository serves as the official landing page for Air Conflicts. The softw
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Air Conflicts today!**
+
+---
+**Last updated:** 2026-09-07 05:32:54 UTC
