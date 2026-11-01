@@ -239,4 +239,4 @@ This repository serves as the official landing page for Air Conflicts. The softw
 **Get the most recent version of Air Conflicts today!**
 
 ---
-**Last updated:** 2026-11-01 08:31:25 UTC
+**Last updated:** 2026-11-01 15:39:19 UTC
